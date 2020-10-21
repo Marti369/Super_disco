@@ -12,4 +12,4 @@ https://github.com/Marti369/daily-scheduler
 
 # Screenshot of Application
 
-![portfolio demo](./assets/imgs/app_screenshot.png)
+![Live Application Screenshot](./assets/imgs/app_screenshot.png)
